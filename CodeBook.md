@@ -1,11 +1,11 @@
-## Tidy Data
+#Tidy Data
 The data contains 180 rows of averaged variable for each activity and each subject, extracted from measurements on the mean and standard deviation.
 
-## Data Provided
+# Data Provided
 
 The data provided was of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
 
-# For each record it is provided:
+## For each record it is provided:
 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 - Triaxial Angular velocity from the gyroscope. 
@@ -13,7 +13,7 @@ The data provided was of 30 volunteers within an age bracket of 19-48 years. Eac
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-# Dataset included:
+## Dataset included:
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 
 - 'features.txt': List of all features.
@@ -36,7 +36,7 @@ The data provided was of 30 volunteers within an age bracket of 19-48 years. Eac
 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
-# Activity Labels were:
+## Activity Labels were:
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
@@ -44,7 +44,7 @@ The data provided was of 30 volunteers within an age bracket of 19-48 years. Eac
 5 STANDING
 6 LAYING
 
-# Features:
+## Features:
 1 tBodyAcc-mean()-X
 2 tBodyAcc-mean()-Y
 3 tBodyAcc-mean()-Z
