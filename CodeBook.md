@@ -1,4 +1,4 @@
-#Tidy Data
+# Tidy Data
 The data contains 180 rows of averaged variable for each activity and each subject, extracted from measurements on the mean and standard deviation.
 
 # Data Provided
